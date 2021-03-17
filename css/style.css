@@ -1,0 +1,53 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background: #a36464;
+}
+
+.menu {
+    font-size: 18px;
+    position: absolute;
+    display: block;
+    left: 30px;
+    color: #cecece;
+}
+
+#img {
+    width:200px;
+    height: 200px;
+    position: absolute;
+    display: block;
+    right: 30px
+}
+
+.sum {
+    position: absolute;
+    font-family: 'Blinker', sans-serif;
+    color: #dbdbdb;
+    bottom: 10px;
+    font-size: 32px;
+}
+
+#sum_text {
+    
+    font-size: 32px;
+    font-family: 'Blinker', sans-serif;
+    
+    display: block;
+    position: absolute;
+    bottom: 55px;
+    color: #dbdbdb;
+    
+}
+
+.btn {
+    padding: 1rem 1.5rem;
+    color: #fff;
+    background: #8C959D;
+    border-radius: 3px;
+    
+    position: absolute;
+    display: block;
+    font-size: 42px;
+    right: 50px;
+    bottom: 30px;
+}
